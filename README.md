@@ -86,8 +86,7 @@ streamlit run app.py
 
 
 ## 🌐 Live Demo
-
-🔗 *Add your deployed Streamlit link here*
+👉 [Click here to use the app](https://heart-stroke-prediction-w2hp5chdb54atyguglgej9.streamlit.app/)
 
 
 
